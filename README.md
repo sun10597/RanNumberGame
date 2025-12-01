@@ -23,14 +23,6 @@ C# 언어와 Windows Forms를 활용하여 만든 간단한 **숫자 맞추기 U
 * **프레임워크:** .NET (Windows Forms)
 * **개발 환경:** Visual Studio
 
-## 🚀 시작하는 방법
-1.  **저장소 클론:**
-    ```bash
-    git clone [https://github.com/sun10597/RanNumberGame.git](https://github.com/sun10597/RanNumberGame.git)
-    ```
-2.  **프로젝트 열기:** Visual Studio를 열고 프로젝트 폴더 내의 `.sln` 파일을 엽니다.
-3.  **실행:** Visual Studio에서 `F5` 키를 눌러 디버깅 모드로 실행합니다.
-
 ## 📌 향후 개선 계획
 * **난이도 설정 기능:** 게임 시작 전 1-50, 1-100 등 난이도를 선택할 수 있도록 추가.
 * **기록 리스트 (History Log):** 시도한 횟수와 힌트 기록을 화면에 표시하여 게임의 편의성 개선.
